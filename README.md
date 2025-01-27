@@ -29,15 +29,15 @@ The **Planning Scenario Tool** is designed to help businesses or individuals pla
 ## Video Representation
 Watch the following video to better understand how the Planning Scenario Tool works and how to utilize it effectively for scenario planning:
 
-[**Video Representation of the Project**](https://github.com/VishalTyagi85/Planning_Scenario_Tool/blob/main/Video%20Representation.mp4)
+[![Play Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/VishalTyagi85/Planning_Scenario_Tool/blob/main/Video%20Representation.mp4)
 
 ## Technology Used
-- **Excel**: Used for data entry, formula-based calculations, and scenario planning simulations.
-- **GitHub**: For version control and hosting the project files.
+- ![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Excel_2013_logo_%28light%29.png) **Excel**: Used for data entry, formula-based calculations, and scenario planning simulations.
+- ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**: For version control and hosting the project files.
 - **Video**: Demonstrates the functionality and use cases of the tool.
 
 ## Contact Information
 For any queries or collaboration opportunities, feel free to reach out:
 - GitHub Profile: [VishalTyagi85](https://github.com/VishalTyagi85)
-- LinkedIn: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00)
+- LinkedIn: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00/)
 - Email: [tyagivishal8583@gmail.com]
